@@ -16,20 +16,20 @@ function Navbar(){
             alt="logo"/>
         </div>
         <div className="qHeader_icons">
-        <div className="qHeader-icon">
+        <div className="qHeader_icon">
                 <HomeIcon/>
 
             </div>
-            <div className="qHeader-icon">
+            <div className="qHeader_icon">
                 <FeaturedPlayListOutlinedIcon/>
             </div>
-            <div className="qHeader-icon">
+            <div className="qHeader_icon">
                 <AssignmentTurnedInOutlinedIcon/>
             </div>
-            <div className="qHeader-icon">
+            <div className="qHeader_icon">
                 <PeopleAltOutlined/>
             </div>
-            <div className="qHeader-icon">
+            <div className="qHeader_icon">
                 <NotificationImportantOutlined/>
             </div>
             
@@ -45,6 +45,7 @@ function Navbar(){
             </div>
             <Language/>
             <Button>Ask Question</Button>
+            
 
         </div>
     </div>

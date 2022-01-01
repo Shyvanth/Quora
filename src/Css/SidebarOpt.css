@@ -1,0 +1,19 @@
+.sidebaropt{
+    display: flex;
+    flex-direction: column;
+}
+.sidebarop{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+    width: 0%;
+    height: 0%;
+}
+.sidebarop>img{
+    height: 50px;
+    padding: 10px;
+}
+.sidebarop>p{
+    font-size: 15px;
+}
