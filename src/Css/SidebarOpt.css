@@ -5,10 +5,9 @@
 .sidebarop{
     display: flex;
     align-items: center;
-    padding: 10px;
+    padding: 20px;
     cursor: pointer;
-    width: 0%;
-    height: 0%;
+    
 }
 .sidebarop>img{
     height: 50px;
@@ -16,4 +15,7 @@
 }
 .sidebarop>p{
     font-size: 15px;
+}
+.sidebarop:hover{
+    background-color: lightgray;
 }
